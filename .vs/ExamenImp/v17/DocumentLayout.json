@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.infra\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|solutionrelative:examen.infra\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.infra\\configuration\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|solutionrelative:examen.infra\\configuration\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.infra\\configuration\\locataireconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|solutionrelative:examen.infra\\configuration\\locataireconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\domain\\entreprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\entreprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\domain\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\domain\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\domain\\locataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\locataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\domain\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.infra\\examen.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCFB12C9-424A-4742-AB2F-7E42C6BAD573}|Examen.Infra\\Examen.Infra.csproj|solutionrelative:examen.infra\\examen.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.applicationcore\\examen.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\examen.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820D93-702D-42EA-BB0C-C1D6450BEFF8}|Examen.Console\\Examen.Console.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93820D93-702D-42EA-BB0C-C1D6450BEFF8}|Examen.Console\\Examen.Console.csproj|solutionrelative:examen.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93820D93-702D-42EA-BB0C-C1D6450BEFF8}|Examen.Console\\Examen.Console.csproj|c:\\users\\walid\\desktop\\examenimp\\examenimp\\examen.console\\examen.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93820D93-702D-42EA-BB0C-C1D6450BEFF8}|Examen.Console\\Examen.Console.csproj|solutionrelative:examen.console\\examen.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocataireConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Configuration\\LocataireConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infra\\Configuration\\LocataireConfiguration.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Configuration\\LocataireConfiguration.cs",
+              "RelativeToolTip": "Examen.Infra\\Configuration\\LocataireConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:33:43.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Vehicule.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Vehicule.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Vehicule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:00:38.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Configuration\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infra\\Configuration\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Configuration\\ReservationConfiguration.cs",
+              "RelativeToolTip": "Examen.Infra\\Configuration\\ReservationConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:43:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Context.cs",
+              "RelativeDocumentMoniker": "Examen.Infra\\Context.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Context.cs",
+              "RelativeToolTip": "Examen.Infra\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:09:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Locataire.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Locataire.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Locataire.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Locataire.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Locataire.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:53:09.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Personne.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Personne.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Personne.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Personne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:56:12.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entreprise.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Entreprise.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Entreprise.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Entreprise.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Entreprise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:56:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Reservation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:59:17.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Agent.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Agent.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Domain\\Agent.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Agent.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:48:19.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Examen.Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Examen.Infra.csproj",
+              "RelativeDocumentMoniker": "Examen.Infra\\Examen.Infra.csproj",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Infra\\Examen.Infra.csproj",
+              "RelativeToolTip": "Examen.Infra\\Examen.Infra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T00:21:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Examen.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "RelativeToolTip": "Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T01:31:28.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Console\\Program.cs",
+              "RelativeToolTip": "Examen.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:09:27.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Examen.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Console\\Examen.Console.csproj",
+              "RelativeDocumentMoniker": "Examen.Console\\Examen.Console.csproj",
+              "ToolTip": "C:\\Users\\walid\\Desktop\\ExamenImp\\ExamenImp\\Examen.Console\\Examen.Console.csproj",
+              "RelativeToolTip": "Examen.Console\\Examen.Console.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T01:32:39.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
